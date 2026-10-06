@@ -1,0 +1,5 @@
+pyproject.toml
+.fastapicloudignore
+.vir
+.fastapicloud
+School_API.egg-info
