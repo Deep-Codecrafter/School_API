@@ -1,0 +1,4 @@
+fastapi[standard]
+python-multipart
+jinja2
+pydantic
